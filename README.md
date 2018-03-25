@@ -1,2 +1,0 @@
-# simple-platformer
-Simple Platformer
